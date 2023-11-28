@@ -6,19 +6,9 @@
 First of all, I want to thank the Masai school for giving me this opportunity to work on a collaborative project and enhance my coding skills.
 we learned a lot while working on this project. we failed so many times and we never give up, in the last we finally made our Project successfully.
 
-**Team-Members.**
 
-Md Sahil Amaan.
 
-Amit Prakash.
 
-Sumit Bokshi.
-
-Sagar Pawar.
-
-Aadarsh Mukati.
-
-Prajjwal pal.
 
 **In the construct week.**
 
@@ -113,7 +103,7 @@ We all became proficient in reading the code of team members. and we learned How
 
 **Blog Link**
 
-https://mdsahilamaan2017.medium.com/a-collaborative-project-from-masai-school-e255331475
+
 
 **At last, I would like to thank our mentors and my team members for their support & guidance during the project.**
 
